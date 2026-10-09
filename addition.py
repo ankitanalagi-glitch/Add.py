@@ -3,4 +3,4 @@ def calculate_add(a,b):
 
 if __name__ =="__main__":
    
-    print("Addition is:", caculate_add(10,20)) 
+    print("Addition is:", calculate_add(10,20)) 
